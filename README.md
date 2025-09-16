@@ -1,5 +1,5 @@
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f91fba9f-ebc4-4fc1-a525-ece4d2614479" />
-AI Banking Compliance Automation Dashboard v4.0
+### <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f91fba9f-ebc4-4fc1-a525-ece4d2614479" />
+# AI Banking Compliance Automation Dashboard v4.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
