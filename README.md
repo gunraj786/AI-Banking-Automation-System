@@ -1,4 +1,4 @@
-[<img width="16" height="16" alt="bank icon" src="https://github.com/user-attachments/assets/7487d561-a123-4f51-a423-0689c7fd17a2" />]
+<img width="16" height="16" alt="bank icon" src="https://github.com/user-attachments/assets/7487d561-a123-4f51-a423-0689c7fd17a2" />
 # AI Banking Compliance Automation Dashboard v4.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
